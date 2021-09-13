@@ -1,0 +1,37 @@
+/*.com{
+    display: flex;
+}*/
+div  div{
+    display: flex;
+}
+.division{
+    border: 1px solid black;
+    margin: 30px;
+    height: 300px;
+    width: 170px;
+    box-shadow: 4px 4px rgb(173, 171, 171);
+}
+.imag{
+    height: 150px;
+    width: 170px;
+}
+.hed{
+    color: grey;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    font-weight: bold;
+    margin-top: 0px;
+}
+.nexhed{
+    margin-top: -14px;
+    font-size: 1rem;
+    text-transform: capitalize;
+    color: rgb(128, 143, 128);
+}
+.par{
+    margin-top: -13px;
+    color: rgb(138, 81, 81);
+    font-size: 0.8rem;
+    text-align: justify;
+
+}
